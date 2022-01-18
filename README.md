@@ -1,1 +1,1 @@
-# Medical-DB
+![clinic_diagram](https://user-images.githubusercontent.com/44485810/149984983-4c630a49-78c5-4644-a750-f62a1280d17c.png)
